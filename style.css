@@ -1,0 +1,338 @@
+
+/*-----------PARENT DIV--------*/
+/*.container{
+display: grid;
+}*/
+
+body{
+background: linear-gradient(#FFFFFF, #EFEEEC);
+
+}
+.box{
+display: grid;
+
+/*outline: 2px solid black;*/
+}
+
+/*-----------HEADER--------*/
+#sale{
+display: grid;
+grid-template-columns: 10% 3% 6% 55% 6% 10% 10%;
+padding-bottom: 8%;
+padding-top: 2%;
+
+}
+        #blank1{
+
+          /*outline: 2px solid black;*/
+
+        }
+
+        #peace{
+          /*outline: 2px solid black;*/
+          text-align: center;
+          padding-top: 10px;
+
+        }
+
+        #sale1{
+          padding-top: 4px;
+          font-size: 8pt;
+          text-align: center;
+           /*outline: 2px solid black;*/
+           font-family: 'Roboto Condensed', sans-serif;
+           color: gray;
+         }
+
+                i {
+                  border: solid gray;
+                  border-width: 0 2px 2px 0;
+                  display: inline-block;
+                  padding: 3px;
+                  margin-left: 10px;
+                }
+
+
+                .down {
+                  transform: rotate(45deg);
+                  -webkit-transform: rotate(45deg);
+                }
+
+        #blank2{
+          /*outline: 2px solid black;*/
+        }
+        #account{
+          font-size: 8pt;
+          text-align: center;
+          /*outline: 2px solid black;*/
+          padding-top: 15px;
+          font-family: 'Roboto Condensed', sans-serif;
+          color: gray;
+        }
+
+        #post{
+          /*outline: 2px solid black;*/
+        }
+
+            #button{
+            background-color: #009AFF;
+            font;
+            padding: 14px 28px;
+            border-radius: 8px;
+            border: 2px solid #009AFF;
+            color: white;
+            font-family: 'Roboto Condensed', sans-serif;
+            }
+
+
+        #blank3{
+          /*outline: 2px solid black;*/
+        }
+/*/*-----------MOUNTAIN--------*/
+#mountain{
+  display: grid;
+  grid-template-columns: 10% 3% 47%  10% 17% 3% 10%;
+  padding-bottom: 17px;
+
+}
+
+            #empty{
+
+            }
+            #mag{
+                padding-top: 14px;
+            }
+            #mont{
+                font-size: 24pt;
+                font-family: 'Roboto Condensed', sans-serif;
+                color: #333333;
+                padding-top: 8px;
+            }
+
+            #in{
+                font-size: 20pt;
+                font-family: 'Roboto Condensed', sans-serif;
+                color:gray;
+                text-align:center;
+                padding-top: 12px;
+            }
+
+            #europe{
+              font-size: 24pt;
+              font-family: 'Roboto Condensed', sans-serif;
+              color:#333333;
+              padding-top: 8px;
+            }
+                            t{
+                              border: solid gray;
+                              border-width: 0 2px 2px 0;
+                              display: inline-block;
+                              padding: 6px;
+                            }
+
+
+                            .down {
+                              transform: rotate(45deg);
+                              -webkit-transform: rotate(45deg);
+                            }
+
+            #tag{
+
+            }
+
+            #empty3{
+
+            }
+
+/*-----------PRICE-----------*/
+#price{
+  display: grid;
+  grid-template-columns: 10% 4% 4% 4% 4% 11% 12% 11% 10% 10% 9% 10%;
+  margin-bottom: 100px:
+}
+
+            #none{
+            }
+
+
+            #grid1{
+              padding-top: 2px;
+              margin-top: 70px;
+
+            }
+            #grid2{
+              margin-top: 70px;
+                padding-top: 3px;
+            }
+            #grid3{
+                padding-top: 3px;
+                margin-top: 70px;
+            }
+
+            #location{
+              margin-top: 70px;
+            }
+            #money{
+              font-size: 10pt;
+              font-family: 'Roboto Condensed', sans-serif;
+              color:#333333;
+              margin-top: 65px;
+
+            }
+                      m{
+                        border: solid gray;
+                        border-width: 0 2px 2px 0;
+                        display: inline-block;
+                        padding: 3px;
+                        margin-left: 10px;
+                      }
+
+
+                      .down {
+                        transform: rotate(45deg);
+                        -webkit-transform: rotate(45deg);
+                      }
+
+
+            #hills{
+              font-size: 10pt;
+              font-family: 'Roboto Condensed', sans-serif;
+              color:#333333;
+             margin-top: 65px;
+            }
+            #type{
+              font-size: 10pt;
+              font-family: 'Roboto Condensed', sans-serif;
+              color:#333333;
+             margin-top: 65px;
+            }
+            #more{
+              font-size: 10pt;
+              font-family: 'Roboto Condensed', sans-serif;
+              color:#333333;
+             margin-top: 65px;
+            }
+            #none2{
+
+            }
+            #oldest{
+              font-size: 10pt;
+              font-family: 'Roboto Condensed', sans-serif;
+              color:#333333;
+              margin-top: 65px;
+            }
+            #none3{
+
+            }
+
+/*-----------PICS1------------*/
+#picss{
+  display: grid;
+  grid-template-columns: 10% 55% 25% 10%;
+}
+
+              #pic1{
+                padding-top: 100px;
+                margin-left: 55px;
+
+              }
+              #emp1{
+
+              }
+              #picss2{
+                padding-top: 100px;
+                margin-right: 50px;
+                margin-top: 3px;
+              }
+              #emp{
+
+              }
+
+
+/*-----------MOUNT EVEREST-----*/
+#mount_everest{
+  display: grid;
+  grid-template-columns: 10% 55% 25% 10%;
+}
+
+              #ugh{
+              }
+              #content1{
+                font-size: 12pt;
+                font-family: 'Roboto Condensed', sans-serif;
+                color:#gray;
+                padding: 40px;
+                margin-left: 55px
+
+              }
+              #content2{
+                font-size: 12pt;
+                font-family: 'Roboto Condensed', sans-serif;
+                color:#gray;
+                padding: 35px;
+                margin-left: 30px
+              }
+              #ugh2{
+
+              }
+
+
+
+
+/*-----------PICS2------------*/
+#picc2{
+  display: grid;
+  grid-template-columns: 10% 26.5% 26.5% 26.5% 10%;
+}
+
+          #picc1{
+              /*margin-left: 45px;*/
+              padding-left:30px;
+              padding-top: 3px;
+          }
+          #picc2{
+            padding-left:30px;
+            padding-top: 3px;
+          }
+
+          #picc3{
+            padding-left:33px;
+            padding-top: 3px;
+          }
+
+/*-----------ITLAY------------*/
+#italy{
+  display: grid;
+  grid-template-columns: 10% 26.5% 26.5% 26.5% 10%;
+}
+          #contentss1{
+            ont-size: 12pt;
+            font-family: 'Roboto Condensed', sans-serif;
+            color:#gray;
+            margin-left: 75px;
+            padding: 40px;
+            margin-left: 55px
+            /*padding-top: 35px;
+            padding-bottom: 35px;*/
+          }
+          #contentss2{
+            ont-size: 12pt;
+            font-family: 'Roboto Condensed', sans-serif;
+            color:#gray;
+            padding: 40px;
+            margin-left: 55px
+
+          }
+          #contentss3{
+            ont-size: 12pt;
+            font-family:'Roboto Condensed', sans-serif;
+            color:#gray;
+            padding: 40px;
+            margin-left: 55px
+
+          }
+
+/*-----------FOOTER------------*/
+#footer{
+      padding-bottom: 150px;
+}
